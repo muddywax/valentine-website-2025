@@ -9,7 +9,7 @@ const CONFIG = {
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You Be My Valentine my Princess? 💗",
+    pageTitle: "Will You Be My Valentine, my Princess? 💗",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -67,7 +67,7 @@ const CONFIG = {
     // Animation settings
     // Adjust these if you want faster/slower animations
     animations: {
-        floatDuration: "17s",           // How long it takes hearts to float up (10-20s recommended)
+        floatDuration: "10s",           // How long it takes hearts to float up (10-20s recommended)
         floatDistance: "70px",          // How far hearts move sideways (30-70px recommended)
         bounceSpeed: "0.6s",            // Speed of bouncing animations (0.3-0.7s recommended)
         heartExplosionSize: 1.9         // Size of heart explosion effect (1.2-2.0 recommended)
