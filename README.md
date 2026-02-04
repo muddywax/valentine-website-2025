@@ -86,7 +86,7 @@ Note: Make sure you're logged into your GitHub account. If you don't have one, y
 Here's what you can customize in `config.js`:
 ```javascript
 // Basic Information
-valentineName: "Jade"                    // Your Valentine's name
+valentineName: "Oteng"                    // Your Valentine's name
 pageTitle: "Will You Be My Valentine? 💝" // Browser tab title
 
 // Floating Background Elements
@@ -130,7 +130,7 @@ celebration: {
 }
 
 // Website Colors
-colors: {
+colors: {white
     backgroundStart: "#ffafbd",      // Background gradient start
     backgroundEnd: "#ffc3a0",        // Background gradient end
     buttonBackground: "#ff6b6b",     // Button color
