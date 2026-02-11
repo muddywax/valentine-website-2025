@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Phanuch",
+    valentineName: "Oteng Motlatsi",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -43,7 +43,7 @@ const CONFIG = {
     // They show up depending on how far they slide the meter
     loveMessages: {
         extreme: "WOOOOW You love me that much baby, Come Back to me! 🥰🐰💗",  // Shows when they go past 5000%
-        high: "To Cambodia to Australia to Our New Home 🐰💞",              // Shows when they go past 1000%
+        high: "To Limpopo to North West to Our New Home 🐰💞",              // Shows when they go past 1000%
         normal: "I Love u more 🥰"                           // Shows when they go past 100%
     },
 
